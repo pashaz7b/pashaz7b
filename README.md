@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pashaz7b&theme=dark&background=000000&show_icons=true&locale=en" alt="pashaz7b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pashaz7b&theme=dracula" alt="pashaz7b" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pashaz7b" /></p>
 
 
