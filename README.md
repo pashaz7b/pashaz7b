@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasha</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/pashaz7b/pashaz7b/blob/main/CodingPixelArt.gif">
+<img align="right" alt="Coding" width="500" src="https://github.com/pashaz7b/pashaz7b/blob/main/ROGPixelArt.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pashaz7b&label=Profile%20views&color=0e75b6&style=flat" alt="pashaz7b" /> </p>
 
 - 🔭 I’m currently working on **Some Little Projects**
